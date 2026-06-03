@@ -40,8 +40,18 @@ This Power BI dashboard analyzes Blinkit's sales and operational performance usi
 
 ![Dashboard](dashboard_screenshot.png)
 
+## Skills Demonstrated 
+
+- Data Visualization
+- Dashboard Design
+- KPI Development
+- DAX Calculations
+- Data Modeling
+- Business Performance Analysis
+- Power BI
+  
 ## Author
 
-Prachi Goswami
+**Prachi Goswami**
 Bachelor of Science in Business Analytics
 University of Cincinnati
